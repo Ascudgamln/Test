@@ -8,5 +8,6 @@ int main(int argc, char *argv[])
     w.show();
 	//abcd w main
 	//efgh w main cdn
+	//i jeszcze kilka linijek
     return a.exec();
 }

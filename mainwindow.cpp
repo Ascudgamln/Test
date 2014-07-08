@@ -8,6 +8,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->setupUi(this);
 
     //abc
+    //defg
 }
 
 MainWindow::~MainWindow()
